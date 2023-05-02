@@ -29,6 +29,7 @@ function App() {
   // setData(updateData)
 // const user = ['hamza','izhar','wajid']
 // const [data,setData] = useState(user)
+//Hafiz bhai ka function add kar
 function upDate(){
   setData(['fida ', 'raza ', 'asim '])
 }
